@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+EXPORCARMIN S.A.S.                                                     
+NIT: 901492605                                               SERIAL: EXP2-112623
+TLF: 3123428284                                              FECHA: 2026-07-25 19:17:14
+PLANTA: SEDE SANTISIMA TRINIDAD                             TIPO: INGRESO/SALIDA         
+------------------------------------------------------------------------
+          FECHA                HORA                 PESO       NETO      
+ENTRADA   2026-07-25          19:17:14                    3,616          ---
+SALIDA    2026-07-25          19:17:14                    3,531          85
+------------------------------------------------------------------------
+RECIBO    : 4545         CONDUCTOR    : JAIRO           C. C.    : 123
+MINA      : VIRGEN                  TRANSPORTADORA : TLN             TELÉFONO : 313342
+PRODUCTO  : CARBON                  TIPO VEHÍCULO: VOLQ            PLACA    : RZO262
+DESTINO   : SANTISIMA               PILA         : TRINIDAD        TRAILER  : 1234
+------------------------------------------------------------------------
+OBSERVACIÓN : 
+PRECINTOS   : 
+
+
+----------------------------------------    ----------------------------------------
+          PESADO POR: BASCULA                                           RECIBIDO POR: JAIRO

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+EXPORCARMIN S.A.S.                                                     
+NIT: 901492605                                               SERIAL: EXP2-440073
+TLF: 3123428284                                              FECHA: 2026-07-25 19:18:04
+PLANTA: SEDE SANTISIMA TRINIDAD                             TIPO: INGRESO/SALIDA         
+------------------------------------------------------------------------
+          FECHA                HORA                 PESO       NETO      
+ENTRADA   2026-07-25          19:18:04                    12          ---
+SALIDA    2026-07-25          19:18:04                    2          10
+------------------------------------------------------------------------
+RECIBO    : GGGG         CONDUCTOR    : QWQWQ           C. C.    : 2121
+MINA      : WRRRR                   TRANSPORTADORA : WWW             TELÉFONO : 3323
+PRODUCTO  : CARBON                  TIPO VEHÍCULO: WEWE            PLACA    : QWWWWWWW
+DESTINO   : GGGG                    PILA         : GGGG            TRAILER  : 2332
+------------------------------------------------------------------------
+OBSERVACIÓN : 22
+PRECINTOS   : GGG
+
+
+----------------------------------------    ----------------------------------------
+          PESADO POR: BASCULA                                           RECIBIDO POR: QWQWQ

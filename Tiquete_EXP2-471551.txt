@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+EXPORCARMIN SAS                                                         
+NIT: 901492605                               SERIAL: EXP2-471551
+TLF: 3123428284                              FECHA: 2026-07-25 16:14:43
+PLANTA: SEDE SANTISIMA TRINIDAD              TIPO: INGRESO              
+------------------------------------------------------------------------
+          FECHA               HORA               PESO          NETO     
+ENTRADA   2026-07-25       15:09:46           10,000       ---
+SALIDA    2026-07-25       16:14:43           5,200       4,800
+------------------------------------------------------------------------
+RECIBO    : C-0                     CONDUCTOR    : JAIRO           C. C.    : 14525
+MINA      : LA MILAGROS             TRANSPORTADORA : YLM             TELÉFONO : 3133428584
+PRODUCTO  : CARBON                  TIPO VEHÍCULO: VOLQUETA        PLACA    : 123QWE
+DESTINO   : CUCUTA                  PILA         : LA MILAGRO      TRAILER  : 741
+------------------------------------------------------------------------
+OBSERVACIÓN : HUMEDO
+PRECINTOS   : 64
+
+
+----------------------------------------    ----------------------------------------
+          PESADO POR: BASCULA                         RECIBIDO POR: JAIRO

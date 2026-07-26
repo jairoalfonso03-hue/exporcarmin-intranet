@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+EXPORCARMIN S.A.S.                                                     
+NIT: 901492605                                               SERIAL: EXP2-957319
+TLF: 3123428284                                              FECHA: 2026-07-25 19:20:53
+PLANTA: SEDE SANTISIMA TRINIDAD                             TIPO: INGRESO/SALIDA         
+------------------------------------------------------------------------
+          FECHA                HORA                 PESO       NETO      
+ENTRADA   2026-07-25          19:20:53                    35,136          ---
+SALIDA    2026-07-25          19:20:53                    3,538          31,598
+------------------------------------------------------------------------
+RECIBO    : 456         CONDUCTOR    : SARA            C. C.    : 12
+MINA      : MILAGROS                TRANSPORTADORA : ÑLK             TELÉFONO : 325
+PRODUCTO  : CARBON                  TIPO VEHÍCULO: CAMI            PLACA    : RZO263
+DESTINO   : SARDIANATA              PILA         : JAIRO           TRAILER  : 852
+------------------------------------------------------------------------
+OBSERVACIÓN : 
+PRECINTOS   : 
+
+
+----------------------------------------    ----------------------------------------
+          PESADO POR: BASCULA                                           RECIBIDO POR: SARA
